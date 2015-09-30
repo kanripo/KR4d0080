@@ -1,0 +1,19 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 施註蘇詩
+#+DATE: 2015-08-24 23:53:19.758687
+#+PROPERTY: ID KR4d0080
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷首
+<pb:KR4d0080_WYG_003-1a>¶
+欽定四庫全書¶
+　施註蘇詩巻首¶
+　　原序¶
+　　宋序¶
+　　註蘇例言¶
+　　正註正偽¶
+　　註蘇姓氏¶
+　　贊¶
+<pb:KR4d0080_WYG_003-1b>¶
+　　勅¶
+　　本傳¶
+　　墓誌銘¶
